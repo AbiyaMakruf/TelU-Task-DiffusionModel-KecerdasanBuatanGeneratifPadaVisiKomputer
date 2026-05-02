@@ -10,15 +10,15 @@ Some modifications and fixes were made to the original code for the purpose of t
 ### Original Images
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
 
-![Original 1](images/1001_2000.jpg)
-![Original 2](images/1002_2000.jpg)
-![Original 3](images/1006_2000.jpg)
-![Original 4](images/1011_2000.jpg)
+![Original 1](README/1001_2000.jpg)
+![Original 2](README/1002_2000.jpg)
+![Original 3](README/1006_2000.jpg)
+![Original 4](README/1011_2000.jpg)
 
-![Original 5](images/1013_2000.jpg)
-![Original 6](images/1017_2000.jpg)
-![Original 7](images/1024_2000.jpg)
-![Original 8](images/1025_2000.jpg)
+![Original 5](README/1013_2000.jpg)
+![Original 6](README/1017_2000.jpg)
+![Original 7](README/1024_2000.jpg)
+![Original 8](README/1025_2000.jpg)
 
 </div>
 
@@ -29,16 +29,16 @@ Some modifications and fixes were made to the original code for the purpose of t
 #### Early Training (Sample 1-5) - Kualitas Rendah
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
 
-![Sample 1 (Early)](model_anime/sample-1.png)
+![Sample 1 (Early)](README/sample-1.png)
 **Sample #1** - Awal pelatihan
 
-![Sample 2 (Early)](model_anime/sample-2.png)
+![Sample 2 (Early)](README/sample-2.png)
 **Sample #2** - Awal pelatihan
 
-![Sample 3 (Early)](model_anime/sample-3.png)
+![Sample 3 (Early)](README/sample-3.png)
 **Sample #3** - Awal pelatihan
 
-![Sample 4 (Early)](model_anime/sample-4.png)
+![Sample 4 (Early)](README/sample-4.png)
 **Sample #4** - Awal pelatihan
 
 </div>
@@ -46,16 +46,16 @@ Some modifications and fixes were made to the original code for the purpose of t
 #### Mid Training (Sample 10-15) - Kualitas Sedang
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
 
-![Sample 10 (Mid)](model_anime/sample-10.png)
+![Sample 10 (Mid)](README/sample-10.png)
 **Sample #10** - Pertengahan pelatihan
 
-![Sample 11 (Mid)](model_anime/sample-11.png)
+![Sample 11 (Mid)](README/sample-11.png)
 **Sample #11** - Pertengahan pelatihan
 
-![Sample 12 (Mid)](model_anime/sample-12.png)
+![Sample 12 (Mid)](README/sample-12.png)
 **Sample #12** - Pertengahan pelatihan
 
-![Sample 13 (Mid)](model_anime/sample-13.png)
+![Sample 13 (Mid)](README/sample-13.png)
 **Sample #13** - Pertengahan pelatihan
 
 </div>
@@ -63,16 +63,16 @@ Some modifications and fixes were made to the original code for the purpose of t
 #### Late Training (Sample 25-30) - Kualitas Tinggi
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
 
-![Sample 25 (Late)](model_anime/sample-25.png)
+![Sample 25 (Late)](README/sample-25.png)
 **Sample #25** - Akhir pelatihan
 
-![Sample 26 (Late)](model_anime/sample-26.png)
+![Sample 26 (Late)](README/sample-26.png)
 **Sample #26** - Akhir pelatihan
 
-![Sample 27 (Late)](model_anime/sample-27.png)
+![Sample 27 (Late)](README/sample-27.png)
 **Sample #27** - Akhir pelatihan
 
-![Sample 28 (Late)](model_anime/sample-28.png)
+![Sample 28 (Late)](README/sample-28.png)
 **Sample #28** - Akhir pelatihan
 
 </div>
